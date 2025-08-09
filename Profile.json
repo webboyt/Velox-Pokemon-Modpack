@@ -209,6 +209,10 @@
         {
             "path": "\\mods\\supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
             "url": "https://mediafilez.forgecdn.net/files/5546/988/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+        },
+        {
+            "path": "\\mods\\emoji-type-2.3.0-1.21.3-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/q7vRRpxU/versions/SIUWXl4N/emoji-type-2.3.0-1.21.3-fabric.jar"
         }
     ],
     "script": null
