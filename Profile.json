@@ -213,6 +213,10 @@
         {
             "path": "\\mods\\emoji-type-2.3.0-1.21.3-fabric.jar",
             "url": "https://cdn.modrinth.com/data/q7vRRpxU/versions/SIUWXl4N/emoji-type-2.3.0-1.21.3-fabric.jar"
+        },
+        {
+            "path": "\\mods\\AdvancementPlaques-1.21.1-fabric-1.6.8.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5905/997/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
         }
     ],
     "script": null
