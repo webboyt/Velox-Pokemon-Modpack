@@ -201,6 +201,14 @@
         {
             "path": "\\mods\\Prism-1.21.1-fabric-1.0.11.jar",
             "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/obM5d9Uv/Prism-1.21.1-fabric-1.0.11.jar"
+        },
+        {
+            "path": "\\mods\\durabilitytooltip-1.1.6-fabric-mc1.21.jar",
+            "url": "https://mediafilez.forgecdn.net/files/6833/277/durabilitytooltip-1.1.6-fabric-mc1.21.jar"
+        },
+        {
+            "path": "\\mods\\supermartijn642configlib-1.1.8-fabric-mc1.21.jar",
+            "url": "https://mediafilez.forgecdn.net/files/5546/988/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
         }
     ],
     "script": null
