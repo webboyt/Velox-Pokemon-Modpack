@@ -1,0 +1,14 @@
+[
+    {
+        "path": "\\config\\betterf3.json",
+        "url": "${repo_url}\\config\\betterf3.json"
+    },
+    {
+        "path": "\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Sounds.zip",
+        "url": "${repo_url}\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Sounds.zip"
+    },
+    {
+        "path": "\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Textures.zip",
+        "url": "${repo_url}\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Textures.zip"
+    }
+]
