@@ -10,5 +10,169 @@
     {
         "path": "\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Textures.zip",
         "url": "${repo_url}\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Textures.zip"
+    },
+    {
+        "path": "\\config\\modmenu.json",
+        "url": "${repo_url}\\config\\modmenu.json"
+    },
+    {
+        "path": "\\config\\drippyloadingscreen\\options.txt",
+        "url": "${repo_url}\\config\\drippyloadingscreen\\options.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\background_clouds_box_01.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\background_clouds_box_01.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\background_clouds_box_02.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\background_clouds_box_02.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\background_clouds_box_03.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\background_clouds_box_03.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\background_sky_01.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\background_sky_01.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\background_stars.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\background_stars.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\bg_loading_screen.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\bg_loading_screen.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\cobblemon_title.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\cobblemon_title.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_exit.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_exit.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_mods.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_mods.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_multiplayer.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_multiplayer.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_options.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_options.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_server.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_server.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\icon_singleplayer.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\icon_singleplayer.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_hovered.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_hovered.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_inactive.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_inactive.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_large.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_large.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_large_hovered.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_large_hovered.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_inactive.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_large_inactive.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext_hovered.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext_hovered.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext_inactive.png",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\graphics\\main_menu_button_notext_inactive.png"
+    },
+    {
+        "path": "\\config\\fancymenu\\assets\\splashes\\splashes.txt",
+        "url": "${repo_url}\\config\\fancymenu\\assets\\splashes\\splashes.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\loading_overlay_layout.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\loading_overlay_layout.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\menu_background_layer0.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\menu_background_layer0.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\menu_background_layer1.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\menu_background_layer1.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\menu_background_layer2.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\menu_background_layer2.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\menu_background_layer3.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\menu_background_layer3.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\menu_background_layer4.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\menu_background_layer4.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customization\\title_screen_layout.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customization\\title_screen_layout.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\layout_editor\\widgets\\element_layer_control.lewidget",
+        "url": "${repo_url}\\config\\fancymenu\\layout_editor\\widgets\\element_layer_control.lewidget"
+    },
+    {
+        "path": "\\config\\fancymenu\\ui_themes\\dark.json",
+        "url": "${repo_url}\\config\\fancymenu\\ui_themes\\dark.json"
+    },
+    {
+        "path": "\\config\\fancymenu\\ui_themes\\light.json",
+        "url": "${repo_url}\\config\\fancymenu\\ui_themes\\light.json"
+    },
+    {
+        "path": "\\config\\fancymenu\\audio_element_controller_metas.json",
+        "url": "${repo_url}\\config\\fancymenu\\audio_element_controller_metas.json"
+    },
+    {
+        "path": "\\config\\fancymenu\\custom_gui_screens.txt",
+        "url": "${repo_url}\\config\\fancymenu\\custom_gui_screens.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\customizablemenus.txt",
+        "url": "${repo_url}\\config\\fancymenu\\customizablemenus.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\legacy_checklist.txt",
+        "url": "${repo_url}\\config\\fancymenu\\legacy_checklist.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\options.txt",
+        "url": "${repo_url}\\config\\fancymenu\\options.txt"
+    },
+    {
+        "path": "\\config\\fancymenu\\user_variables.db",
+        "url": "${repo_url}\\config\\fancymenu\\user_variables.db"
     }
 ]
