@@ -3,13 +3,24 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1755715877555
+  last_edited_time = 1755726552663
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:c0aca8f0-11f4-4695-96cc-77fedc422fc5-1755715813355] = [groups:][instances:]
+  [loading_requirement_container_meta:4a9e20a9-076f-4da8-b352-343b7b269510-1755726530916] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 3.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
 }
 
 menu_background {
@@ -25,7 +36,7 @@ menu_background {
 
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
@@ -118,7 +129,7 @@ vanilla_button {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = vanilla
-  x = 140
+  x = 149
   y = 294
   width = 360
   height = 10
@@ -175,7 +186,7 @@ vanilla_button {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = vanilla
-  x = 140
+  x = 149
   y = 135
   width = 360
   height = 90

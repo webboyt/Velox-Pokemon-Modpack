@@ -3,13 +3,24 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1755716745456
+  last_edited_time = 1755726444342
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 1
-  [loading_requirement_container_meta:8376a899-e4b0-4325-879f-6f157bdb6a1f-1755716725598] = [groups:][instances:]
+  [loading_requirement_container_meta:26f6ce6d-25c6-4ae5-b71f-ee167ddc2ae5-1755726431169] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 3.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
 }
 
 menu_background {
@@ -25,7 +36,7 @@ menu_background {
 
 customization {
   action = backgroundoptions
-  keepaspectratio = false
+  keepaspectratio = true
 }
 
 scroll_list_customization {
