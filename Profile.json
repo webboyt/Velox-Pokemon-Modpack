@@ -281,6 +281,10 @@
         {
             "path": "\\mods\\Cobbreeding-fabric-1.9.1.jar",
             "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/ar2cejBV/Cobbreeding-fabric-1.9.1.jar"
+        },
+        {
+            "path": "\\mods\\trinkets-3.10.0.jar",
+            "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
         }
     ],
     "script": null
