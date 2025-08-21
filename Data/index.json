@@ -12,7 +12,11 @@
         "url": "${repo_url}\\resourcepacks\\SimpsonGms_Vanilla_Tweaks_Textures.zip"
     },
     {
-        "path": "\\resourcepacks\\cobblemon_pack_main_menu.zip",
-        "url": "${repo_url}\\cobblemon_pack_main_menu.zip"
+        "path": "\\resourcepacks\\cobblemon_pack_main_menu_panoramic.zip",
+        "url": "${repo_url}\\cobblemon_pack_main_menu_panoramic.zip"
+    },
+    {
+        "path": "\\resourcepacks\\cobblemon_pack_main_menu_static.zip",
+        "url": "${repo_url}\\cobblemon_pack_main_menu_static.zip"
     }
 ]
