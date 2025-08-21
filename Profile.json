@@ -1,6 +1,6 @@
 {
     "name": "Velox_Pokemon_Pack",
-    "version": "1.62",
+    "version": "1.71",
     "server_ip": null,
     "minecraft_version": "1.21.1",
     "forge_version": null,
@@ -265,6 +265,26 @@
         {
             "path": "\\mods\\polymer-bundled-0.9.18%2B1.21.1.jar",
             "url": "https://cdn.modrinth.com/data/xGdtZczs/versions/t55Wk2zK/polymer-bundled-0.9.18%2B1.21.1.jar"
+        },
+        {
+            "path": "\\mods\\Cobblemon_MegaShowdown-10.0.6-release-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/SszvX85I/versions/mWrIcR7i/Cobblemon_MegaShowdown-10.0.6-release-fabric.jar"
+        },
+        {
+            "path": "\\mods\\cobblemon-fixedstarterivs-1.6-fabric-1.0.0.jar",
+            "url": "https://cdn.modrinth.com/data/dwxBClup/versions/WQEhxo44/cobblemon-fixedstarterivs-1.6-fabric-1.0.0.jar"
+        },
+        {
+            "path": "\\mods\\cobblemonintegrations-fabric-1.21.1-1.1.3.jar",
+            "url": "https://cdn.modrinth.com/data/NPCfuUI4/versions/y3K09e2V/cobblemonintegrations-fabric-1.21.1-1.1.3.jar"
+        },
+        {
+            "path": "\\mods\\Cobbreeding-fabric-1.9.1.jar",
+            "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/ar2cejBV/Cobbreeding-fabric-1.9.1.jar"
+        },
+        {
+            "path": "\\mods\\trinkets-3.10.0.jar",
+            "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
         }
     ],
     "script": null
