@@ -18,5 +18,9 @@
     {
         "path": "\\resourcepacks\\cobblemon_pack_main_menu_static.zip",
         "url": "${repo_url}\\resourcepacks\\cobblemon_pack_main_menu_static.zip"
+    },
+    {
+    	"path": "\\mods\\velox-server-connect-1.0.0.jar",
+    	"url": "${repo_url}\\mods\\velox-server-connect-1.0.0.jar"
     }
 ]
