@@ -285,6 +285,10 @@
         {
             "path": "\\mods\\trinkets-3.10.0.jar",
             "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
+        },
+        {
+            "path": "\\mods\\EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
+            "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/iNh08beL/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar"
         }
     ],
     "script": null
