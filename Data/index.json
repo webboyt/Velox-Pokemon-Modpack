@@ -22,5 +22,9 @@
     {
     	"path": "\\mods\\velox-server-connect-1.0.0.jar",
     	"url": "${repo_url}\\mods\\velox-server-connect-1.0.0.jar"
+    },
+    {
+        "path": "\\mods\\more_colored_lights-1.0.0.jar",
+        "url": "${repo_url}\\mods\\more_colored_lights-1.0.0.jar"
     }
 ]
